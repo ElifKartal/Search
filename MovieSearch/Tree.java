@@ -1,5 +1,8 @@
+package MovieSearch;
+
 import java.util.ArrayList;
 import java.util.List;
+
 
 class Tree {
 	private Node root;
